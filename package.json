@@ -62,7 +62,7 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
-    "gonzales-pe": "^4.0.3",
+    "gonzales-pe": "git://github.com/hurduring/gonzales-pe.git",
     "lodash": "^4.17.2"
   }
 }

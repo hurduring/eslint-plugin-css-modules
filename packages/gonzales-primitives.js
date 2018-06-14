@@ -942,7 +942,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	  css: __webpack_require__(11),
 	  less: __webpack_require__(16),
 	  sass: __webpack_require__(21),
-	  scss: __webpack_require__(25)
+	  scss: __webpack_require__(25),
+	  styl: __webpack_require__(25),
 	};
 
 /***/ },
